@@ -1,0 +1,13 @@
+name: InfectedPlugin
+main: me.CheMorris.PieFreedom.PieFreedom
+version: 2.3
+description: Plugin for the BitchCraft server.
+authors: [PieGuy7896, hockeyfan360]
+
+commands:
+  bar:
+    description: Broadcast a preset message to the server
+    
+  test:
+    description: Is the server lagging?
+  
